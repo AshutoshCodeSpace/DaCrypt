@@ -67,5 +67,5 @@ You have successfully used **DaCrypt** to either enable or disable access to **I
 
 ### Credits:
 - [**@AshutoshCodeSpace**](https://github.com/AshutoshCodeSpace)
-- [**@DelightOSChat**](https://t.me/DelightOSChat)
-- [**@DelightOSUpdates**](https://t.me/DelightOSUpdates)
+- [**@CovalentOS**](https://t.me/CovalentOS)
+- [**@CovalentOSChat**](https://t.me/CovalentOSChat)
